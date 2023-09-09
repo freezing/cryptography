@@ -1,18 +1,18 @@
-# An Introduction to Encryption and Learning Cryptography
+# Learning Cryptography through Toy Implementations
 
-Cryptography is essential for security. 
+<i>This repository contains toy implementations of various cryptographic systems.</i><br>
+<i>These implementations are only intended for educational purposes and are not suitable for production.</i>
 
-It is used to preserve the integrity and confidentiality of sensitive information.
+### Why learn about cryptography?
 
-The internet is used by virtually everyone today for trivial purposes such as playing games and more critical tasks such as online banking. 
-
-Users have started using the internet to access and utilize important services. 
-
-A large part of ensuring secure communication is done using Cryptographic primitives. 
+- It is used to preserve the integrity and confidentiality of sensitive information.
+- Cryptography is used for critical tasks such as online banking.  
+- A large part of ensuring secure communication is done using Cryptographic primitives.
+- Encryption systems like email security and file security widely use asymmetrical cryptography.
 
 
 # How to run the script
-this is the source code used in [*How RSA Cryptosystem WORKS - Intuitive approach*](https://youtu.be/nvcssTsiavg).
+this is the source code used in [**<i>How RSA Cryptosystem WORKS - Intuitive approach</i>**](https://youtu.be/nvcssTsiavg)
 
 ## create a virtual environment (optional but recommended)
 - install a venv manager such as [`virtualenv`](https://github.com/pypa/virtualenv)

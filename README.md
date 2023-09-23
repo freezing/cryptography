@@ -12,7 +12,8 @@
 
 
 # How to run the script
-this is the source code used in [**<i>How RSA Cryptosystem WORKS - Intuitive approach</i>**](https://youtu.be/nvcssTsiavg)
+This is the source code used in [**<i>How RSA Cryptosystem WORKS - Intuitive approach</i>**](https://youtu.be/nvcssTsiavg)<br>
+Please refer to the blog post for notes and concepts discussed in the video [**<i>How RSA Works</i>**](https://techwithnikola.com/blog/cryptography/how-rsa-works/)
 
 ## create a virtual environment (optional but recommended)
 - install a venv manager such as [`virtualenv`](https://github.com/pypa/virtualenv)
